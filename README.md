@@ -33,4 +33,3 @@ sudo flatpak override --filesystem=xdg-config/gtk-3.0 && sudo flatpak override -
 | [adw-hc-light](https://github.com/lassekongo83/adw-colors/blob/main/themes/adw-hc-light/gtk.css) | A slightly higher contrast libadwaita light theme. [Screenshot](/themes/adw-hc-light/screenshot.png?raw=true). |
 
 </div>
-
